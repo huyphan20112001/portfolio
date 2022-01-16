@@ -1,0 +1,38 @@
+:root {
+  --bg-black: #222222;
+  --bg-color: #151515;
+  --text-color: #fff;
+  --red-color: #ec1839;
+  --bg-color2: #393939;
+}
+
+* {
+  box-sizing: inherit;
+  text-decoration: none;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.container {
+  width: 1170px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.container__full-width {
+  width: 100%;
+}
+
+/* Cung nam tren 1 hang ngang */
+.container__row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* HOME  */
