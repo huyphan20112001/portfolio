@@ -630,7 +630,7 @@ textarea {
   }
 
   .portfolio {
-    margin-top: 380px;
+    margin-top: 450px;
     text-align: center;
   }
 
@@ -645,9 +645,9 @@ textarea {
   }
 
   .contact {
-    margin-top: 420px;
+    margin-top: 550px;
     text-align: center;
-    height: 175vh;
+    height: 200vh;
   }
   .contact__menu {
     display: flex;
